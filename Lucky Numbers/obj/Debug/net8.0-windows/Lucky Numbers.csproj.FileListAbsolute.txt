@@ -1,0 +1,16 @@
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\bin\Debug\net8.0-windows\Lucky Numbers.exe
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\bin\Debug\net8.0-windows\Lucky Numbers.deps.json
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\bin\Debug\net8.0-windows\Lucky Numbers.runtimeconfig.json
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\bin\Debug\net8.0-windows\Lucky Numbers.dll
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\bin\Debug\net8.0-windows\Lucky Numbers.pdb
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky_Numbers.Form1.resources
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.csproj.GenerateResource.cache
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.AssemblyInfoInputs.cache
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.AssemblyInfo.cs
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.dll
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\refint\Lucky Numbers.dll
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.pdb
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\Lucky Numbers.genruntimeconfig.cache
+C:\Users\Hossein\Desktop\Lucky Numbers\Lucky Numbers\obj\Debug\net8.0-windows\ref\Lucky Numbers.dll
